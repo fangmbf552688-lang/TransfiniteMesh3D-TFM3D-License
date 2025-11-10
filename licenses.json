@@ -1,6 +1,13 @@
 {
-  "active": {
-    "TEST-1111-AAAA": { "expire": "2026-01-01", "note": "永久授權" },
-    "DEMO-9999-ZZZZ": { "expire": "2024-12-31", "note": "試用" }
-  }
+    "issued": "2025-11-12T02:00:00Z",
+    "active": {
+        "TEST-1111-AAAA": {
+            "expire": "2026-01-01",
+            "note": "正式授權"
+        },
+        "DEMO-9999-ZZZZ": {
+            "expire": "2025-12-31",
+            "note": "試用"
+        }
+    }
 }
