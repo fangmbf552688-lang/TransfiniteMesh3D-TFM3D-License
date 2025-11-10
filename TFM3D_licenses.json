@@ -1,22 +1,11 @@
 {
-  "issued": "2025-11-10T23:27:29Z",
+  "issued": "2025-11-10T23:53:40Z",
   "active": {
     "TFM3D-20251110-001": {
       "registered": "2025-11-10",
       "expire": "2026-11-10",
       "note": "Full Registration"
-    },
-    "TFM3D-20251110-002": {
-      "registered": "2025-11-10",
-      "expire": "2026-11-10",
-      "note": "Full Registration"
     }
   },
-  "revoked": {
-    "TFM3D-20251110-003": {
-      "registered": "2025-11-10",
-      "expire": "2026-11-10",
-      "note": "Full Registration"
-    }
-  }
+  "revoked": {}
 }
